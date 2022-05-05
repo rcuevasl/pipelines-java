@@ -1,3 +1,4 @@
+[![Build Status](https://dev.azure.com/rcuevasiber/COE%20Microsoft%20Azure/_apis/build/status/rcuevasl.pipelines-java?branchName=master)](https://dev.azure.com/rcuevasiber/COE%20Microsoft%20Azure/_build/latest?definitionId=2&branchName=master)
 
 # Contributing
 
